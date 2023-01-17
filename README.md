@@ -1,2 +1,2 @@
 # git_test
-git study
+### 该文件用于记录git学习过程中的一些操作。
